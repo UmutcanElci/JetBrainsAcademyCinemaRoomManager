@@ -1,0 +1,6 @@
+content:
+- Theory
+- Where NPE might occur
+- Code that throws an exception
+- Lines that may throw NPE
+- Avoid NPE
